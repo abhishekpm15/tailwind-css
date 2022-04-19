@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekpm15/tailwind-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhishekpm15/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/abhishekpm15/tailwind-css#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
